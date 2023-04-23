@@ -1,6 +1,3 @@
-functions.c CODE
-
-
 #include "main.h"
 
 /************************* PRINT CHAR *************************/
